@@ -11,14 +11,15 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a passionate software engineer with expertise in **AI/ML**, **full-stack development**, and **blockchain technology**. I love building intelligent systems that solve real-world problems and exploring cutting-edge technologies.
 
-- 🔭 Currently working on AI-powered applications and decentralized platforms
-- 🌱 Exploring advanced machine learning algorithms and Web3 technologies
-- 💡 Interested in DeFi, smart contracts, and blockchain scalability
-- 📫 Open to collaborations and innovative projects
+- 🔬 Working on AI-powered applications and blockchain platforms
+- 🤝 Open to collaborating on ML, AI, Web3, and open-source projects
+- 🎓 Currently exploring advanced deep learning, cloud architecture, and DeFi
+- 💡 Ask me about Python, Machine Learning, Blockchain, or Web3
+- ⚡ Passionate about bridging technology with real-world solutions
 
 ---
 
