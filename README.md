@@ -73,10 +73,10 @@ I'm a passionate software engineer with expertise in **AI/ML**, **full-stack dev
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:faraz277@example.com">
+  <a href="mailto:shaikhfarazahmed0727@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/faraz277">
+  <a href="https://linkedin.com/in/imsfa727">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/faraz277">
